@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Mehdi Naam</h1>
 
+<h3 align="center">A passionate software engineer and fullStack Developer</h3>
+
 ## Bio
 
 🚀 Driven Software Engineer | C/C++ Enthusiast | Problem Solver
@@ -23,10 +25,11 @@ From building a real-time web application with React, TypeScript, Django, and We
 💬 Let's Connect
 I’m always open to connecting with fellow developers, open-source contributors, and tech enthusiasts. Let’s build something remarkable together!
 
-<p align="center">[![enaam's 42 stats](https://badge.mediaplus.ma/landscapes/enaam)](https://github.com/oakoudad/badge42)</p>
-
-<h3 align="center">A passionate software engineer and fullStack Developer</h3>
-
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42" target="_blank">
+    <img src="https://badge.mediaplus.ma/landscapes/enaam" alt="enaam's 42 Stats Badge">
+  </a>
+</p>
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JSJDE1Qxc8aLYW81LsnFS4o9m_3nAJlD/view?usp=sharing](https://drive.google.com/file/d/1JSJDE1Qxc8aLYW81LsnFS4o9m_3nAJlD/view?usp=sharing)

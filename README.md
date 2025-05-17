@@ -90,5 +90,4 @@ I’m always open to connecting with fellow developers, open-source contributors
 &nbsp;
   
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdi-naam&show_icons=true&locale=en&layout=compact" alt="mehdi-naam" /></p>
-
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdi-naam&show_icons=true&locale=en" alt="mehdi-naam" /></p>

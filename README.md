@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm El Mehdi Naam</h1>
 
-##Bio
+## Bio
+
 🚀 Driven Software Engineer | C/C++ Enthusiast | Problem Solver
 
 Hello! I'm a passionate software engineer with a strong foundation in C and C++, specializing in algorithm design, data structures, and performance optimization. I enjoy transforming complex problems into clean, efficient, and scalable solutions.
@@ -23,7 +25,6 @@ I’m always open to connecting with fellow developers, open-source contributors
 
 [![enaam's 42 stats](https://badge.mediaplus.ma/landscapes/enaam)](https://github.com/oakoudad/badge42)
 
-<h1 align="center">Hi 👋, I'm El Mehdi Naam</h1>
 <h3 align="center">A passionate software engineer and fullStack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdi-naam" alt="mehdi-naam" /></a> </p>

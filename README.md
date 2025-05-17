@@ -32,7 +32,7 @@ I’m always open to connecting with fellow developers, open-source contributors
 </p>
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JSJDE1Qxc8aLYW81LsnFS4o9m_3nAJlD/view?usp=sharing](https://drive.google.com/file/d/1JSJDE1Qxc8aLYW81LsnFS4o9m_3nAJlD/view?usp=sharing)
+- 📄 Know about my experiences [My Resume Link](https://drive.google.com/file/d/1JSJDE1Qxc8aLYW81LsnFS4o9m_3nAJlD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,3 +1,28 @@
+
+##Bio
+🚀 Driven Software Engineer | C/C++ Enthusiast | Problem Solver
+
+Hello! I'm a passionate software engineer with a strong foundation in C and C++, specializing in algorithm design, data structures, and performance optimization. I enjoy transforming complex problems into clean, efficient, and scalable solutions.
+
+🛠️ Technical Proficiency
+
+Languages: C++98, C, Python, JavaScript
+
+Core Skills: Object-Oriented Programming, Systems Programming, Network Architecture
+
+Tools & Frameworks: React, Django, Docker, Git, RESTful APIs, WebSockets
+
+🎓 Education
+Currently studying at 1337 Coding School, a peer-to-peer software engineering program with a heavy emphasis on hands-on learning, innovation, and self-management. Previously earned a bachelor's degree in Economic Studies.
+
+🌐 Projects & Contributions
+From building a real-time web application with React, TypeScript, Django, and WebSockets, to developing a concurrent chat server in C++, I'm always seeking opportunities to push technical boundaries. I actively contribute to open-source initiatives and embrace collaborative problem-solving.
+
+💬 Let's Connect
+I’m always open to connecting with fellow developers, open-source contributors, and tech enthusiasts. Let’s build something remarkable together!
+
+[![enaam's 42 stats](https://badge.mediaplus.ma/landscapes/enaam)](https://github.com/oakoudad/badge42)
+
 <h1 align="center">Hi 👋, I'm El Mehdi Naam</h1>
 <h3 align="center">A passionate software engineer and fullStack Developer</h3>
 

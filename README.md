@@ -89,6 +89,6 @@ I’m always open to connecting with fellow developers, open-source contributors
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/> </a> </p>
 &nbsp;
   
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdi-naam&show_icons=true&locale=en&layout=compact" alt="mehdi-naam" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdi-naam&show_icons=true&locale=en&layout=compact" alt="mehdi-naam" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdi-naam&show_icons=true&locale=en" alt="mehdi-naam" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdi-naam&show_icons=true&locale=en" alt="mehdi-naam" /></p>

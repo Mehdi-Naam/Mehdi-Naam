@@ -23,7 +23,7 @@ From building a real-time web application with React, TypeScript, Django, and We
 💬 Let's Connect
 I’m always open to connecting with fellow developers, open-source contributors, and tech enthusiasts. Let’s build something remarkable together!
 
-[![enaam's 42 stats](https://badge.mediaplus.ma/landscapes/enaam)](https://github.com/oakoudad/badge42)
+<p align="center">[![enaam's 42 stats](https://badge.mediaplus.ma/landscapes/enaam)](https://github.com/oakoudad/badge42)</p>
 
 <h3 align="center">A passionate software engineer and fullStack Developer</h3>
 

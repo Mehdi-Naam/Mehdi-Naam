@@ -27,7 +27,7 @@ I’m always open to connecting with fellow developers, open-source contributors
 
 <h3 align="center">A passionate software engineer and fullStack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdi-naam" alt="mehdi-naam" /></a> </p>
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JSJDE1Qxc8aLYW81LsnFS4o9m_3nAJlD/view?usp=sharing](https://drive.google.com/file/d/1JSJDE1Qxc8aLYW81LsnFS4o9m_3nAJlD/view?usp=sharing)
 
